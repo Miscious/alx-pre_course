@@ -1,2 +1,2 @@
 # alx-pre_course
-Git 101 - My very first repository after ten million missing repositories!
+I'm now a ALX Student, this is my first repository as a full-stack engineer
